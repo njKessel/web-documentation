@@ -49,7 +49,7 @@ npx quartz plugin install
 npx quartz build --serve
 ```
 
-> [!tip]
+> [!tip] 
 > If you hit build errors on a fresh clone, try `npx quartz plugin install --latest` to refresh plugins to their latest versions. See [[troubleshooting#Plugins fail to build on a fresh clone]] for details.
 
 ## 🔧 Features
